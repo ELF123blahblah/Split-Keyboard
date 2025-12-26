@@ -21,3 +21,8 @@ Following and trying to learn Kicad via youtube tutorial and hack club :
 … Failed misserably.
 
 Time spent 3 hours.
+## Day 2 (2025.12.26)
+
+Note: I realised that I wasn’t reallt learning while following a tutorial that is why I first made a plan and wrote down what I needed today. Also today I didn’t really work on the PCB just a bit of schematics and a lot of planning.
+
+![image.png](attachment:164efc8b-7796-4306-ba68-9ee909e55de3:image.png)
