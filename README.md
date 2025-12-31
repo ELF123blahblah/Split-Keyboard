@@ -70,6 +70,8 @@ Note: I know that today is the last day of the year but I still wanna do this pr
 
 Update: So I just completed doing my schematics with the help of a community member no semicolon. Now I am moving onto the PCB part. Which I am gonna have to do alone
 
-Update 2: Its currently 1:31 in the middle of the night on 2026 January 1st. I just finished celebrating and now I am moving onto to the PCB again. I did the arrangement/alignment pretty neatly(i think) and now I am wiring them which is the most difficult part to be honest
+## Day 8(2026.01.01)
+
+Note: Its currently 1:31 in the middle of the night on 2026 January 1st. I just finished celebrating and now I am moving onto to the PCB again. I did the arrangement/alignment pretty neatly(i think) and now I am wiring them which is the most difficult part to be honest
 
 ![Screenshot 2026-01-01 at 01.33.29.png](attachment:40cb21b9-d19d-4d58-b63d-442f62ee9ef2:Screenshot_2026-01-01_at_01.33.29.png)
