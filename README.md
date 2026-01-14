@@ -1,8 +1,11 @@
-### Hackpad
+<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 36" src="https://github.com/user-attachments/assets/0b3a8f8e-d4c6-4d34-922f-a8f47ff06e65" />### Hackpad
 The case will be printed in 3 different parts(top,middle,bottom)
-<img width="1038" height="708" alt="Screenshot 2026-01-11 at 17 10 09" src="https://github.com/user-attachments/assets/08977755-8c43-4bab-b573-b71d09605c1c" />
-<img width="596" height="595" alt="Screenshot 2026-01-11 at 17 10 48" src="https://github.com/user-attachments/assets/1e3c7d49-15ad-4397-b976-727e90c00d88" />
-<img width="805" height="587" alt="Screenshot 2026-01-11 at 17 11 06" src="https://github.com/user-attachments/assets/ced463c3-890c-411a-b449-47a212218286" />
+<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 47" src="https://github.com/user-attachments/assets/bf7cc5c1-ff9c-44b5-96b9-6df96e5c3fb5" />
+<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 42" src="https://github.com/user-attachments/assets/449b013d-27fd-45f1-abe8-39c75a8ae382" />
+<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 39" src="https://github.com/user-attachments/assets/b897e8e5-b252-4d9f-8d05-1a976780e916" />
+![Uploading<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 27 44" src="https://github.com/user-attachments/assets/d34b12a8-ffd5-4824-a846-d8c381fdd686" />
+ Screens<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 27 37" src="https://github.com/user-attachments/assets/4324925d-d8dd-48a7-b5dd-b94153d05b74" />
+hot 2026-01-14 at 15.30.36.png…]()
 
 ## Firmware
 # PCB
@@ -10,7 +13,8 @@ The case will be printed in 3 different parts(top,middle,bottom)
 
 # Schematics
 <img width="883" height="378" alt="Screenshot 2026-01-11 at 17 13 10" src="https://github.com/user-attachments/assets/74668964-12e9-4fb7-8fc0-86b152a92c64" />
-
+# Note
+The bottom one and the little rectangle will be printed with transparent PLA. To give it an underglow effect and make a window for the microcontrollers
 ## Details
 This hackpad is made to help me have a better time while programming, gaming and 3D printing things.
 ### BOM
@@ -20,3 +24,4 @@ This hackpad is made to help me have a better time while programming, gaming and
 - 9 Blank DSA Keycaps
 - ~ 80g Normal PLA
 - ~ 30g transparent PLA
+  
