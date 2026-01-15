@@ -3,9 +3,8 @@ The case will be printed in 3 different parts(top,middle,bottom)
 <img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 47" src="https://github.com/user-attachments/assets/bf7cc5c1-ff9c-44b5-96b9-6df96e5c3fb5" />
 <img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 42" src="https://github.com/user-attachments/assets/449b013d-27fd-45f1-abe8-39c75a8ae382" />
 <img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 39" src="https://github.com/user-attachments/assets/b897e8e5-b252-4d9f-8d05-1a976780e916" />
-![Uploading<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 27 44" src="https://github.com/user-attachments/assets/d34b12a8-ffd5-4824-a846-d8c381fdd686" />
- Screens<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 27 37" src="https://github.com/user-attachments/assets/4324925d-d8dd-48a7-b5dd-b94153d05b74" />
-hot 2026-01-14 at 15.30.36.png…]()
+
+
 
 ## Firmware
 # PCB
