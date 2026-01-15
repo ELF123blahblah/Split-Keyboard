@@ -15,6 +15,7 @@ hot 2026-01-14 at 15.30.36.png…]()
 <img width="883" height="378" alt="Screenshot 2026-01-11 at 17 13 10" src="https://github.com/user-attachments/assets/74668964-12e9-4fb7-8fc0-86b152a92c64" />
 # Note
 The bottom one and the little rectangle will be printed with transparent PLA. To give it an underglow effect and make a window for the microcontrollers
+I have the screws thats why i didnt include it in the BOM.
 ## Details
 This hackpad is made to help me have a better time while programming, gaming and 3D printing things.
 ### BOM
