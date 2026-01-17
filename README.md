@@ -1,12 +1,9 @@
-<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 36" src="https://github.com/user-attachments/assets/0b3a8f8e-d4c6-4d34-922f-a8f47ff06e65" />### Hackpad
-The case will be printed in 3 different parts(top,middle,bottom)
-<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 47" src="https://github.com/user-attachments/assets/bf7cc5c1-ff9c-44b5-96b9-6df96e5c3fb5" />
-<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 42" src="https://github.com/user-attachments/assets/449b013d-27fd-45f1-abe8-39c75a8ae382" />
-<img width="1440" height="900" alt="Screenshot 2026-01-14 at 15 30 39" src="https://github.com/user-attachments/assets/b897e8e5-b252-4d9f-8d05-1a976780e916" />
 
-
-
-## Firmware
+<img width="1440" height="900" alt="Screenshot 2026-01-17 at 14 16 09" src="https://github.com/user-attachments/assets/8a9a2b5f-5d61-4c07-b93c-159d08199d40" />
+<img width="1440" height="900" alt="Screenshot 2026-01-17 at 14 16 13" src="https://github.com/user-attachments/assets/e43299a9-e7e1-470e-a004-152ee5efed2a" />
+<img width="1440" height="900" alt="Screenshot 2026-01-17 at 14 16 16" src="https://github.com/user-attachments/assets/7368f434-b32a-4d78-95fb-f6bd94b62ca7" />
+<img width="1440" height="900" alt="Screenshot 2026-01-17 at 14 16 18" src="https://github.com/user-attachments/assets/e240d43c-cbe9-4410-ac51-9780f2a9f4bb" />
+## Hardware
 # PCB
 <img width="586" height="566" alt="Screenshot 2026-01-11 at 17 12 57" src="https://github.com/user-attachments/assets/ccfcfeab-3e94-4e8e-a83b-0c1239b433be" />
 
